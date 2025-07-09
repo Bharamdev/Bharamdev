@@ -1,4 +1,3 @@
-![logo](https://github.com/Bharamdev/Bharamdev/blob/main/background.avif)
 <h1 align="center">Hi 👋, I'm Bharam Dev</h1>
 <h3 align="center">A passionate Full Stack/Web developer | Software Engineer Enthusiast</h3>
 
